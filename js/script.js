@@ -19,6 +19,13 @@ function multiply(x, y) {
 	return x*y;
 }
 
+console.log(multiply(2, 4));
+
+console.log(multiply(7, 4));
+
+
 //console.log(multiply(5, 3)); 
 multiply.version = "v.1"; 
 console.log(multiply.version); 
+
+//Function 
